@@ -1,0 +1,2 @@
+The objective of the project is to develop an MIMO antenna system intended for 5G mmWave applications in the 28GHz frequency band. Metmaterial cells WILL BE LOADED to improve the
+antenna gain and isolation between the antennas.
